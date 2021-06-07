@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4711d7a304c37180b1c82263366b4d19",
+    "revision": "3d438fe6283bf413d8a3e8b59e91cd79",
     "url": "/zoom-studies-v1/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zoom-studies-v1/static/css/2.3cf5d70f.chunk.css"
   },
   {
-    "revision": "83ac3abe468d24d37a5d",
+    "revision": "8a5531db4a37e62afe09",
     "url": "/zoom-studies-v1/static/css/main.d8ba6ee7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zoom-studies-v1/static/js/2.7c1dab75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83ac3abe468d24d37a5d",
-    "url": "/zoom-studies-v1/static/js/main.2389c36c.chunk.js"
+    "revision": "8a5531db4a37e62afe09",
+    "url": "/zoom-studies-v1/static/js/main.64c1a284.chunk.js"
   },
   {
     "revision": "7e76359c934abb466bc8",
